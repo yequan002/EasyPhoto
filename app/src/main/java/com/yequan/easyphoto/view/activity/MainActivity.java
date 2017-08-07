@@ -1,7 +1,9 @@
-package com.yequan.easyphoto;
+package com.yequan.easyphoto.view.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.yequan.easyphoto.R;
 
 public class MainActivity extends AppCompatActivity {
 
